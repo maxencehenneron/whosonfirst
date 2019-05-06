@@ -12,7 +12,8 @@
     "test": "./bin/units",
     "lint": "jshint .",
     "validate": "npm ls",
-    "travis": "npm run test"
+    "travis": "npm run test",
+    "extract": "./bin/extract"
   },
   "repository": {
     "type": "git",
